@@ -1,0 +1,14 @@
+* {
+  width: 960px;
+  margin: auto;
+}
+
+html, body {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+
+}
+
+h1 {
+  text-decoration: none;
+}
